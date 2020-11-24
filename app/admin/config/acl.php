@@ -1,0 +1,19 @@
+<?php
+return [
+	'admin'=>[
+		'auth'=>[
+			'user'=>['admin','add','edit','delete','open','close','batchdelete'],
+			'role'=>['admin','add','edit','delete','open','close','batchdelete'],
+			'config'=>['site','updatestatic'],
+		],
+		'login'=>[
+			'user'=>['change_password',],
+			'index'=>['index','welcome','logout'],
+			'upload'=>['uploadimage','delete'],
+		],
+	],
+	'guest'=>[
+		'login'=>['index','captcha'],
+		'install'=>['index']
+	],
+];

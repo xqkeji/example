@@ -1,0 +1,23 @@
+<?php
+return [
+	'xqkeji mini'=>'新齐',
+	'xqkeji_url'=>'http://www.xqkeji.cn/',
+	'xqkeji'=>'新齐科技',
+	'login background management system'=>'后台管理系统',
+	'csrf validation failed'=>'csrf验证失败',
+	'captcha validation failed'=>'验证码错误',
+	'click to refresh verification code'=>'点击刷新验证码',
+	'login account or password error'=>'登录账号或者密码错误',
+	'add success'=>'添加成功',
+	'add failed'=>'添加失败',
+	'edit success'=>'编辑成功',
+	'edit failed'=>'编辑失败',
+	'delete success'=>'删除成功',
+	'delete failed'=>'删除失败',
+	'change status success'=>'修改状态成功',
+	'change status failed'=>'修改状态失败',
+	'change status rows'=>'修改状态记录数',
+	'success'=>'成功',
+	'failed'=>'失败',
+	'delete rows'=>'删除记录数',
+];
